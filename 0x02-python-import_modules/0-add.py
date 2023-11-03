@@ -1,6 +1,5 @@
 #!/usr/bin/python3
 if __name__ == "__main__":
-    import sys
 import add_0
 a = 1
 b = 2
