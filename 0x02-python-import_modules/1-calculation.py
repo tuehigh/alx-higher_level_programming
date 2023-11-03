@@ -6,3 +6,9 @@ if __name__ == "__main__":
 
     result = calc.add(a, b)
     print("{:d} + {:d} = {:d}".format(a, b, result))
+    result = calc.sub(a, b)
+    print("{:d} - {:d} = {:d}".format(a, b, result))
+    result = calc.mul(a, b)
+    print("{:d} * {:d} = {:d}".format(a, b, result))
+    result = calc.div(a, b)
+    print("{:d} / {:d} = {:d}".format(a, b, result))
